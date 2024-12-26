@@ -26,7 +26,7 @@
   --thm-base-rgb: 212, 248, 67;
   --thm-black: #181818;
   --thm-black-rgb: 24, 24, 24;
-  --thm-black2: #080e25;
+  --thm-black2: #9d323d;
   --thm-black2-rgb: 8, 14, 37;
   --thm-primary: #f5f6f0;
   --thm-primary-rgb: 245, 246, 240;
@@ -881,7 +881,7 @@ img {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--thm-black2);
+  background-color: #121212;
   display: flex;
   display: -ms-flexbox;
   align-items: center;
