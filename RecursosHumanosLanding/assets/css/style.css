@@ -22,11 +22,11 @@
   --thm-reey-font: 'reeyregular';
   --thm-gray: #636363;
   --thm-gray-rgb: 99, 99, 99;
-  --thm-base: #00a551;
+  --thm-base: #9d323d;
   --thm-base-rgb: 212, 248, 67;
   --thm-black: #181818;
   --thm-black-rgb: 24, 24, 24;
-  --thm-black2: #9d323d;
+  --thm-black2: #181818;
   --thm-black2-rgb: 8, 14, 37;
   --thm-primary: #f5f6f0;
   --thm-primary-rgb: 245, 246, 240;
@@ -12175,3 +12175,8 @@ Client Support One
 End Css 
 =====================================================
 ***/
+
+
+.fafaIcons{
+  color: white;
+}
