@@ -383,6 +383,7 @@ li {
 .thm-btn .txt {
   position: relative;
   z-index: 1;
+  color:white;
 }
 
 .thm-btn i::before {
